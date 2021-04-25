@@ -126,7 +126,7 @@
 	margin-left: 10px;
 	flex: 1;
 	text-align: right;
-	color: var(--maintext-borders-darkslateblue);
+	color: var(--maintext-borders-black);
 	border-right: 4px solid var(--maintext-borders-black);
   }
   
@@ -220,7 +220,7 @@
   #contactme a {
 	margin: 10px;
 	padding: 3px;
-	color: var(--work-contact-text-darkslategrey);
+	color: var(--work-contact-text-black);
 	text-decoration: none;
 	border-bottom: 3px solid black;
 	border-radius: 3px 3px 0 0;
@@ -278,7 +278,7 @@
 	}
   
 	nav a:hover {
-	  background-color: var(--maintext-borders-darkslateblue);
+	  background-color: var(--maintext-borders-black);
 	  transition: all 0.3s ease;
 	  cursor: pointer;
 	}
